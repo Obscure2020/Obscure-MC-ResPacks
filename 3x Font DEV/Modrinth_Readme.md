@@ -9,7 +9,7 @@ GUI Scale 2 ends up looking too small. GUI Scale 4 ends up too big, and screen r
 <img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/Splash001.png" style="image-rendering:pixelated;" alt="This is my time to shine.">
 
 ## Powers of Two _vs._ Multiples of 16
-To make a long story short, the comminity of people who create Minecraft resource packs got addicted to the Powers of Two. It is therefore easy to find resource packs that are 8x, 16x, 32x, 64xx, 128x, or even larger. But Minecraft's GUI Scale setting doesn't operate on Powers of Two. **It operates on Multiples of 16.**
+To make a long story short, the community of people who create Minecraft resource packs got addicted to the Powers of Two. It is therefore easy to find resource packs that are 8x, 16x, 32x, 64x, 128x, or even larger. But Minecraft's GUI Scale setting doesn't operate on Powers of Two. **It operates on Multiples of 16.**
 
 Minecraft's default, inbuilt textures are 16x16 pixels, commmonly abbreviated to 16x. When you adjust the GUI Scale setting, you're actually selecting an integer multiple of 16x for the display scale of all GUI menus, buttons, and text.
 
@@ -19,15 +19,15 @@ Minecraft's default, inbuilt textures are 16x16 pixels, commmonly abbreviated to
 
 But wait, we've skipped something. We're not Valve, we know how to count, right?
 
-**3 times 16 = 48x.** Literally no support.
+**3 times 16 = 48x.** Even though this totally works in-game, 48x gets literally no community recognition.
 
-It's true, pretty much no one makes any 48x packs. Heck, Modrinth doesn't even have a *category* for 48x, making difficult to advertise such a pack. (PlanetMinecraft doesn't have a tag for 48x either.) 32x and 64x are available in their menu, but 48x? Nope.
+It's true, pretty much no one makes any 48x packs. Heck, Modrinth doesn't even have a *category* for 48x, making it difficult to advertise such a pack. (PlanetMinecraft doesn't have a tag for 48x either.) 32x and 64x are available in their menu, but 48x? Nope.
 
 ## Why would anyone want a 48x pack?
 
-Well, how does Minecraft handle a mismatch between the scale of your resource pack and your GUI Scale setting? Pretty much the easiest way they could: ***nearest-neighbor upscaling.***
+Well, how does Minecraft handle a mismatch between the scale of your resource pack and your GUI Scale setting? Pretty much the easiest way they could: ***nearest-neighbor image scaling.***
 
-Now, Minecraft's default 16x textures can be easily upscaled to 32x, 48x, or 64x. They're all multiples of 16, after all. But what if you have a 32x or 64x pack installed? What happens then? Let's take a look.
+Now, Minecraft's default 16x textures can be easily upscaled to 32x, 48x, or 64x as dictated by the GUI Scale. They're all multiples of 16, after all. But what if you have a 32x or 64x pack installed? What happens then? Let's take a look.
 
 ## Why a 32x pack doesn't work
 Here's Faithful at its native GUI Scale of 2:\
@@ -45,7 +45,7 @@ Here's VanillaXBR at its native GUI Scale of 4:\
 Here's VanillaXBR again, at GUI Scale 3:\
 <img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/VanillaXBR_Bad.png" style="image-rendering:pixelated;" alt="*vomit* 64x scaled down looks WORSE than 32x scaled up!">
 
-The transformation from 64x to 48x is indeed worse. Pixels have to be _thrown out_ to perform this non-integer downscale, resulting in _horrendous_ artifacts. (I mean just _look_ at those angle brackets and the lowercase `x`. They are ***suffering.***)
+The transformation from 64x to 48x is indeed worse. Pixels have to be _thrown out_ to perform this non-integer downscale, resulting in _horrendous_ artifacts. (I mean just _look_ at those angle brackets and the lowercase `x`. They are _**suffering.**_)
 
 # Finally, a 48x font
 
