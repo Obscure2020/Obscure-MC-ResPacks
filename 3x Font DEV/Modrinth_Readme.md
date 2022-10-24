@@ -58,6 +58,7 @@ I have taken it upon myself to improve the lives of all my brethren of the churc
 
 This font is not a Vanilla imitation or interpretation, but rather a revamp according to my own tastes. And *boy* does it look good in-game.
 
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/3x_Good_Small.png" style="image-rendering:pixelated;" width="100%" alt="Crisp and clean-looking 48x text.">\
 <img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/Splash004.png" alt="Welcome to the Kingdom of NOT garbage. All hail King Obscure.">
 
 ## Progress
