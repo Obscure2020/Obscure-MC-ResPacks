@@ -31,21 +31,21 @@ Now, Minecraft's default 16x textures can be easily upscaled to 32x, 48x, or 64x
 
 ## Why a 32x pack doesn't work
 Here's Faithful at its native GUI Scale of 2:\
-<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/Faithful_Good.png" style="image-rendering:pixelated;" alt="Alright, that looks pretty smooth. Not bad.">
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/Faithful_Good_Small.png" style="image-rendering:pixelated;" width="100%" alt="Smooth-looking 32x text.">
 
 Here's Faithful again, at GUI Scale 3:\
-<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/Faithful_Bad.png" style="image-rendering:pixelated;" alt="Bubbles and jaggies! the corners are ruined!">
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/Faithful_Bad_Small.png" style="image-rendering:pixelated;" width="100%" alt="Jagged-looking 48x text.">
 
-As you can see (zoom in for a clearer look), 32x textures cannot be cleanly upscaled to 48x. Artifacts appear due to the non-integer transformation.
+As you can see, 32x textures cannot be cleanly upscaled to 48x. Artifacts appear due to the non-integer transformation.
 
 ## Why a 64x pack doesn't work
 Here's VanillaXBR at its native GUI Scale of 4:\
-<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/VanillaXBR_Good.png" style="image-rendering:pixelated;" alt="Ooh! EXTRA smooth! Pretty nice. Definitely high quality here.">
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/VanillaXBR_Good_Small.png" style="image-rendering:pixelated;" width="100%" alt="Smooth-looking 64x text.">
 
 Here's VanillaXBR again, at GUI Scale 3:\
-<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/VanillaXBR_Bad.png" style="image-rendering:pixelated;" alt="*vomit* 64x scaled down looks WORSE than 32x scaled up!">
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/VanillaXBR_Bad_Small.png" style="image-rendering:pixelated;" width="100%" alt="EXTREMELY jagged-looking 48x text.">
 
-The transformation from 64x to 48x is indeed worse. Pixels have to be _thrown out_ to perform this non-integer downscale, resulting in _horrendous_ artifacts. (I mean just _look_ at those angle brackets and the lowercase `x`. They are _**suffering.**_)
+The transformation from 64x to 48x is even worse. Pixels have to be _thrown out_ to perform nearest-neighbor downscaling, resulting in _horrendous_ artifacts. These characters look like they were chewed up by a dog.
 
 # Finally, a 48x font
 
