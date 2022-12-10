@@ -11,7 +11,7 @@ GUI Scale 2 ends up looking too small. GUI Scale 4 ends up too big, and screen r
 ## Powers of Two _vs._ Multiples of 16
 To make a long story short, the community of people who create Minecraft resource packs got addicted to the Powers of Two. It is therefore easy to find resource packs that are 8x, 16x, 32x, 64x, 128x, or even larger. But Minecraft's GUI Scale setting doesn't operate on Powers of Two. **It operates on Multiples of 16.**
 
-Minecraft's default, inbuilt textures are 16x16 pixels, commmonly abbreviated to 16x. When you adjust the GUI Scale setting, you're actually selecting an integer multiple of 16x for the display scale of all GUI menus, buttons, and text.
+Minecraft's default, inbuilt textures are 16x16 pixels, commonly abbreviated to 16x. When you adjust the GUI Scale setting, you're actually selecting an integer multiple of 16x for the display scale of all GUI menus, buttons, and text.
 
 **1 times 16 = 16x.** The default, the familiar.\
 **2 times 16 = 32x.** Double the resolution of the default! [Faithful](https://modrinth.com/resourcepack/faithful-32x) is a great longstanding example.\
@@ -19,9 +19,11 @@ Minecraft's default, inbuilt textures are 16x16 pixels, commmonly abbreviated to
 
 But wait, we've skipped something. We're not Valve, we know how to count, right?
 
-**3 times 16 = 48x.** Even though this totally works in-game, 48x gets literally no community recognition.
+**3 times 16 = 48x.** Even though this totally works in-game, 48x gets extremely little community recognition.
 
-It's true, pretty much no one makes any 48x packs. Heck, Modrinth doesn't even have a *category* for 48x, making it difficult to advertise such a pack. (PlanetMinecraft doesn't have a tag for 48x either.) 32x and 64x are available in their menu, but 48x? Nope.
+It's true, pretty much no one makes any 48x packs. ~~Heck, Modrinth doesn't even have a *category* for 48x, making it difficult to advertise such a pack.~~ **UPDATE:** If anyone is reading this sentence *after* December 8th, 2022, you might have noticed that this pack has been marked with the `48x` resolution tag. I'd like to thank **Emma (triphora)** on the Modrinth Discord for responding quickly and amicably to my request that this new tag be added.
+
+As of the same date, PlanetMinecraft still has no 48x category. Moreover, PlanetMinecraft still calls them "Texture Packs." It's literally all over their website. Obviously, they must be entirely staffed by idiots. They are called ***RESOURCE PACKS.*** They have been called Resource Packs since the launch of Minecraft 1.6, all the way back in 2013. You know it, I know it, and Modrinth (thank goodness) knows it. I'm never posting anything on PlanetMinecraft ever again.
 
 ## Why would anyone want a 48x pack?
 
@@ -63,4 +65,4 @@ This font is not a Vanilla imitation or interpretation, but rather a revamp acco
 
 ## Progress
 
-As of Version 1.1, only basic ASCII has been improved. Future versions will include support for accented characters and nonlatin European characters. I also plan to implement the "replace SGA with english characters" modification just for fun.
+As of Version 1.1, only basic ASCII has been completed. Future versions will include support for accented characters and nonlatin European characters. I also plan to implement the "replace SGA with English characters" modification just for fun.
