@@ -6,3 +6,7 @@ This is where Obscure stores his development files for his custom Minecraft Reso
 
 The font for the 1080p everyman. Finally.\
 More information and downloads are available [on Modrinth.](https://modrinth.com/resourcepack/3x-font)
+
+## Pixel Party Assist
+Vibrant Colors for Fewer Headaches!\
+More information and downloads are available [on Modrinth.](https://modrinth.com/resourcepack/ppa)
