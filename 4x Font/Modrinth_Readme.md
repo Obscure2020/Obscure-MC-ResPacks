@@ -1,5 +1,15 @@
 # The perfect font for 1440p.
 
+On Christmas Day 2022, I recieved a computer upgrade as a gift. A new laptop to replace my previous low-end model. Besides swapping out 4 CPU cores for 8 and a ***massive*** uplift in GPU power, my new laptop came with a 1440p display. It was time for me to graduate from GUI Scale 3 (for which I had previously made a [custom font](https://modrinth.com/resourcepack/3x-font)) to GUI Scale 4.
+
+Now, I am a longtime user of [VanillaXBR](https://modrinth.com/resourcepack/vanillaxbr), which is essentially tailor-made for GUI Scale 4 since it's a 64x pack. In fact, I've been a proud member of the [VanillaXBR Discord](https://discord.com/invite/8N4xzej) server for years now. Only one issue with it in my eyes: I don't particularly like the font!
+
+In the process of creating [3x Font](https://modrinth.com/resourcepack/3x-font), I realized there were several stylistic choices made in Minecraft's default font (and the fonts provided by most vanilla-inspired packs, like VanillaXBR) that I just didn't really like. Making my own font, I was free to overwrite those choices with letterforms that better suited my tastes. So I decided I'd repeat the process for GUI Scale 4. Behold: the **4x Font** project.
+
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font%20DEV/Splash001_v2.png" style="image-rendering:pixelated;" alt="Crisp and professional.">
+
+---
+
 Let's face it. Most gamers (me included) have 1080p monitors. Whether it's a standalone screen or it's built into your laptop, 1080p is still the most common monitor resolution today, and this creates an interesting issue in Minecraft.
 
 Anyone who's looked at Minecraft's `Video Settings` menu for more than 5 seconds has come across the **GUI Scale** option. And as my friends and I can attest, any savvy user who has a 1080p monitor will agree: **at 1080p, a GUI Scale of 3 looks the best.**
