@@ -1,4 +1,4 @@
-# The font for the 1080p everyman. Finally.
+# The perfect font for 1440p.
 
 Let's face it. Most gamers (me included) have 1080p monitors. Whether it's a standalone screen or it's built into your laptop, 1080p is still the most common monitor resolution today, and this creates an interesting issue in Minecraft.
 
