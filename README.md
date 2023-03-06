@@ -12,10 +12,13 @@ All of Obscure's officially-hosted resource packs can be backported to any past 
 The following packs under developemnt here are publicly available:
 
 ## GUI Scale 3 Font
-
 The font for the 1080p everyman. Finally.\
 More information and downloads are available [on Modrinth.](https://modrinth.com/resourcepack/3x-font)
 
 ## Pixel Party Assist
 Vibrant Colors for Fewer Headaches!\
 More information and downloads are available [on Modrinth.](https://modrinth.com/resourcepack/ppa)
+
+## GUI Scale 4 Font
+The perfect font for 1440p.\
+More information and downloads are available [on Modrinth.](https://modrinth.com/resourcepack/4x-font)

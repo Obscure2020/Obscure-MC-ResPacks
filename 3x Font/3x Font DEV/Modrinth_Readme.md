@@ -8,6 +8,8 @@ GUI Scale 2 ends up looking too small. GUI Scale 4 ends up too big, and screen r
 
 <img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font/3x%20Font%20DEV/Splash001_v2.png" style="image-rendering:pixelated;" alt="This is my time to shine.">
 
+#### *(By the way! If you like 3x Font but are upgrading to a 1440p monitor, check out [4x Font](https://modrinth.com/resourcepack/4x-font)!)*
+
 ## Powers of Two _vs._ Multiples of 16
 To make a long story short, the community of people who create Minecraft resource packs got addicted to the Powers of Two. It is therefore easy to find resource packs that are 8x, 16x, 32x, 64x, 128x, or even larger. But Minecraft's GUI Scale setting doesn't operate on Powers of Two. **It operates on Multiples of 16.**
 
@@ -62,6 +64,9 @@ This font is not a Vanilla imitation or interpretation, but rather a revamp acco
 
 <img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font/3x%20Font%20DEV/3x_Good_Small_v2.png" style="image-rendering:pixelated;" width="100%" alt="Crisp and clean-looking 48x text.">\
 <img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font/3x%20Font%20DEV/Splash004_v2.png" alt="Welcome to the Kingdom of NOT garbage. All hail King Obscure.">
+<center>
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/3x%20Font/3x%20Font%20DEV/3x_Book.png" style="image-rendering:pixelated;" alt="ASCII book.">
+</center>
 
 ## Progress
 

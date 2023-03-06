@@ -21,4 +21,8 @@ In the process of creating [3x Font](https://modrinth.com/resourcepack/3x-font),
 
 ## Progress
 
+<center>
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/4x%20Font/4x%20Font%20DEV/4x_Book.png" style="image-rendering:pixelated;" alt="ASCII book.">
+</center>
+
 As of Version 1, only basic ASCII has been completed. Future versions will include support for accented characters and nonlatin European characters. I also plan to implement the "replace SGA with English characters" modification just for fun.
