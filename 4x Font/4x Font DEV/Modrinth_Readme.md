@@ -11,13 +11,16 @@ When I recently switched to a 1440p monitor (and thus GUI scale 4) I decided I'd
 ## Comparison with Alternatives
 
 **4x Font:** (this font)\
-<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/4x%20Font/4x%20Font%20DEV/Splash002.png" style="image-rendering:pixelated;" width="100%" alt="{Zero72}">
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/4x%20Font/4x%20Font%20DEV/Splash002.png" style="image-rendering:pixelated;" width="100%" alt="{Zero72} in my own style.">
 
 **[VanillaXBR](https://modrinth.com/resourcepack/vanillaxbr):**\
-<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/4x%20Font/4x%20Font%20DEV/Splash003.png" style="image-rendering:pixelated;" width="100%" alt="{Zero72}">
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/4x%20Font/4x%20Font%20DEV/Splash003.png" style="image-rendering:pixelated;" width="100%" alt="{Zero72} in VanillaXBR's style.">
 
 **[Faithful 64x](https://modrinth.com/resourcepack/faithful-64x):**\
-<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/4x%20Font/4x%20Font%20DEV/Splash004.png" style="image-rendering:pixelated;" width="100%" alt="{Zero72}">
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/4x%20Font/4x%20Font%20DEV/Splash004.png" style="image-rendering:pixelated;" width="100%" alt="{Zero72} in Faithful's style.">
+
+**[Geometric Font](https://modrinth.com/resourcepack/geometric-font):**\
+<img src="https://raw.githubusercontent.com/Obscure2020/Obscure-MC-ResPacks/main/4x%20Font/4x%20Font%20DEV/Splash005.png" style="image-rendering:pixelated;" width="100%" alt="{Zero72} in Geometric Font's style.">
 
 ## Progress
 
