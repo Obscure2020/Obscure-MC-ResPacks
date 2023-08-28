@@ -1,9 +1,0 @@
-The top two rows are unicode characters, the ones you highlighted are:
-
-Â, Ê, Í, Ô, Õ, ß, ã, õ, ğ, İ, ı, Œ, œ, Ş, ş, Ŵ, ŵ, ž, ȇ.
-
-The characters on the bottom are, in order:
-
-Ø, ª, º, ®, ¬, ½, ¼, ¡, «, ».
-
-Everything after these are unused ascii characters.
